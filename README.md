@@ -1,2 +1,2 @@
 # Federalist
-Final Project
+Final Project for Programming in C class
